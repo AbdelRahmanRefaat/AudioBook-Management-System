@@ -1,0 +1,10 @@
+C:\Users\shehab55\Desktop\bookista\bookista\bin\Debug\bookista.exe.config
+C:\Users\shehab55\Desktop\bookista\bookista\bin\Debug\bookista.exe
+C:\Users\shehab55\Desktop\bookista\bookista\bin\Debug\bookista.pdb
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.csprojResolveAssemblyReference.cache
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.Form1.resources
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.loginscreen.resources
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.Properties.Resources.resources
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.csproj.GenerateResource.Cache
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.exe
+C:\Users\shehab55\Desktop\bookista\bookista\obj\Debug\bookista.pdb

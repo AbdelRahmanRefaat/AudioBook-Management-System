@@ -1,0 +1,14 @@
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\orderla.feedback.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.forgetpassword.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.Form1.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.History.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.password.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.loginscreen.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.profile.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.Properties.Resources.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.registration.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.sendpassword.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.success.resources
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.csproj.GenerateResource.cache
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.csproj.CoreCompileInputs.cache
+D:\bookista\v6\Bookista\bookista\obj\x86\Debug\bookista.csprojResolveAssemblyReference.cache
